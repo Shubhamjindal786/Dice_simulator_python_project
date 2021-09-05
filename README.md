@@ -1,1 +1,1 @@
-# Dice_simulator_python_python
+# Dice_simulator_python_project
